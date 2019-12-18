@@ -1,11 +1,11 @@
 # Site settings
 author: Henna Vahatiitto
-title: 
+title: Journey to Web Developing
 header-img: img/home-bg.png
 email: hnnamv@gmail.com
 copyright_name: Henna Vahatiitto
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Recording and reflecting on my journey through web development course
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bvmbie
